@@ -1,5 +1,6 @@
-<h1 align="center">Lemur</h1>
-<div align="center">
+
+# Lemur
+<!--<div align="center">
 	<a href="https://travis-ci.org/LPGhatguy/lemur">
 		<img src="https://api.travis-ci.org/LPGhatguy/lemur.svg?branch=master" />
 	</a>
@@ -8,11 +9,11 @@
 	</a>
 </div>
 
+<div>&nbsp;</div>
+-->
 <div align="center">
 	<strong>L</strong>ua <strong>Emu</strong>lation of <strong>R</strong>oblox APIs
 </div>
-
-<div>&nbsp;</div>
 
 Lemur reimplements a large portion of Roblox's API in Lua in order to enable Roblox projects to have continuous integration using services like Travis CI or Jenkins.
 
@@ -61,7 +62,7 @@ CoolModule.doSomething()
 ```
 
 ## Contributing
-If there are any APIs you'd like that are missing, feel free to open an [issue on GitHub](https://github.com/LPGhatguy/lemur/issues)!
+This project is in maintenance-only mode.
 
 ## License
 Lemur is available under the MIT license. See [LICENSE.md](LICENSE.md) for details.
