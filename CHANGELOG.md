@@ -1,5 +1,12 @@
 # Lemur Changelog
 
+## v0.2.1 (June 12, 2025)
+- Added support for `*.(server|client).lua$` and `*.lua$` by merging LPGhatguy/lemur#146
+
+## v0.2.0 (June 12, 2025)
+- Added `wally.toml` and `aftman.toml`
+- Updated README
+
 ## Master
 * Added stub for `spawn` that doesn't do anything
 * Added `Script` and `LocalScript` containers
